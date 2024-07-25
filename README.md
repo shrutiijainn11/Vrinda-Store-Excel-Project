@@ -13,19 +13,16 @@ This project focuses on analyzing the sales data of Vrinda Store using Microsoft
 ## Tools Used
 - **Microsoft Excel**: For data cleaning, analysis, and visualization.
 
-## Getting Started
-
-### Prerequisites
-- [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel)
-
-### Installation
-**Clone the repository**:
-   ```bash
-   git clone https://github.com/shrutiijainn11/Vrinda-Store-Excel-Project.git
-
 ### Examples
 Here are some examples of the insights you can gain from this project:
 
 - **Sales Trends**: Analyze monthly and yearly sales trends.
 - **Top Products**: Identify the best-selling products and their performance.
 - **Customer Insights**: Understand customer demographics and purchasing patterns.
+
+### Contact
+For any questions or inquiries, please contact me at jshruti034@gmail.com.
+
+**Clone the repository**:
+   ```bash
+   git clone https://github.com/shrutiijainn11/Vrinda-Store-Excel-Project.git
